@@ -1,5 +1,5 @@
 {% set name = "aiozmq" %}
-{% set version = "0.7.1" %}
+{% set version = "0.9.0" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: b41d589a715acc0d42b525ef7084bbcdc03c986ef5a90e212ee7f086125cf6c0
+  sha256: 9d7315bb77e2655fc3a5051ea22e79527d62c42e51b2420c4f6f3dcebae65230
 
 build:
   noarch: python
