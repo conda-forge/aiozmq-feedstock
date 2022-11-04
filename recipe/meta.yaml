@@ -40,7 +40,7 @@ about:
   home: http://aiozmq.readthedocs.org
   license: BSD-2-Clause
   license_family: BSD
-  license_file: LICENSE.txt
+  license_file: LICENSE
   summary: ZeroMQ integration with asyncio.
   doc_url: https://aiozmq.readthedocs.io/
   dev_url: https://github.com/aio-libs/aiozmq
