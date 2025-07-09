@@ -3,7 +3,7 @@ About aiozmq-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiozmq-feedstock/blob/main/LICENSE.txt)
 
-Home: http://aiozmq.readthedocs.org
+Home: http://aiozmq.readthedocs.org/
 
 Package license: BSD-2-Clause
 
